@@ -1,0 +1,21 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+        <meta charset="utf-8">
+        <title>Інформатика</title>
+
+ </head>
+ <body>
+       <header>
+            Логотип компанії Теги
+       </header>
+<h1>Структура HTML</h1>
+       <section>
+           <h2>Розділ 1</h2> 
+       </section>
+       <footer>
+           <h5>Бобрик Марія</h5>
+       </footer>
+ </body>
+ </html>
+
